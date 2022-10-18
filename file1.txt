@@ -1,4 +1,3 @@
 This is for Self Learning Training Notes
 Ankit Narula
 Thank You
-Welcome to Azure Devops Training
